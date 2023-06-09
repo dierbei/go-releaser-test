@@ -2,5 +2,5 @@
 package main
 
 func main() {
-	println("Ba dum, tss!aaaa")
+	println("aaaBa dum, tss!aaaa")
 }
